@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sound">Sound</string>
+    <string name="app_name">BlockOut</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="mode_ready">Ready</string>
+    <string name="mode_pause">Pause</string>
+    <string name="mode_lose">Lose</string>
+    <string name="mode_win">Win</string>
+    <string name="score_text">0</string>
+    <string name="menu_start">Start</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_resume">Resume</string>
+    <string name="message_stopped">Stopped</string>
+    <string name="new_game">New Game</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="information">This is a game developed by Mariyan Donev. The name of the game is Block Out.
+               Mariyan Donev is second year Computer Science student in University of Reading.
+               The game is a basic game of breaking bricks with a ball.
+               The original game is developed and published by Atari.inc. It was conceptualized by Nolan Bushnell and
+               Steve Bristow, influenced by the 1972 Atari arcade game pong and built by Steve Wozniak.</string>
+
+</resources>
